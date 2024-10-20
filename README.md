@@ -14,10 +14,12 @@ Django: Backend framework to handle requests, views, and database interactions.
 SQLite: Database for managing user accounts and permission requests.
 
 
-# Install Dependencies: Ensure that you have Python and Django installed on your system. Then, install any project dependencies:
+# Install Dependencies: 
+Ensure that you have Python and Django installed on your system. Then, install any project dependencies:
 pip install -r requirements.txt
 
-# Run the Server: Navigate to the project directory and run the Django development server:
+# Run the Server: 
+Navigate to the project directory and run the Django development server:
 python manage.py runserver
 
 # Access the System: Open your browser and navigate to http://127.0.0.1:8000/ to access the Permission Management System.
